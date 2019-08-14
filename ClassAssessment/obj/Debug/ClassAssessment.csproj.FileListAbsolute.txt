@@ -1,0 +1,15 @@
+E:\余桐轩\c#学习\Net Learning\ClassAssessment\ClassAssessment\bin\Debug\ClassAssessment.exe.config
+E:\余桐轩\c#学习\Net Learning\ClassAssessment\ClassAssessment\bin\Debug\ClassAssessment.exe
+E:\余桐轩\c#学习\Net Learning\ClassAssessment\ClassAssessment\bin\Debug\ClassAssessment.pdb
+E:\余桐轩\c#学习\Net Learning\ClassAssessment\ClassAssessment\obj\Debug\ClassAssessment.csprojAssemblyReference.cache
+E:\余桐轩\c#学习\Net Learning\ClassAssessment\ClassAssessment\obj\Debug\ClassAssessment.Form1.resources
+E:\余桐轩\c#学习\Net Learning\ClassAssessment\ClassAssessment\obj\Debug\ClassAssessment.Properties.Resources.resources
+E:\余桐轩\c#学习\Net Learning\ClassAssessment\ClassAssessment\obj\Debug\ClassAssessment.csproj.GenerateResource.cache
+E:\余桐轩\c#学习\Net Learning\ClassAssessment\ClassAssessment\obj\Debug\ClassAssessment.csproj.CoreCompileInputs.cache
+E:\余桐轩\c#学习\Net Learning\ClassAssessment\ClassAssessment\obj\Debug\ClassAssessment.exe
+E:\余桐轩\c#学习\Net Learning\ClassAssessment\ClassAssessment\obj\Debug\ClassAssessment.pdb
+E:\余桐轩\c#学习\Net Learning\ClassAssessment\ClassAssessment\bin\Debug\Interop.WMPLib.dll
+E:\余桐轩\c#学习\Net Learning\ClassAssessment\ClassAssessment\bin\Debug\AxInterop.WMPLib.dll
+E:\余桐轩\c#学习\Net Learning\ClassAssessment\ClassAssessment\obj\Debug\Interop.WMPLib.dll
+E:\余桐轩\c#学习\Net Learning\ClassAssessment\ClassAssessment\obj\Debug\AxInterop.WMPLib.dll
+E:\余桐轩\c#学习\Net Learning\ClassAssessment\ClassAssessment\obj\Debug\ClassAssessment.csproj.ResolveComReference.cache
